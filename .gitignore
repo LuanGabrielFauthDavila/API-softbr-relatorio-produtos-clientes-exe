@@ -1,0 +1,6 @@
+dist/
+.git/
+__pycache__/
+build/
+dados_clientes.xlsx
+dados_produtos.xlsx
